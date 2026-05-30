@@ -18,9 +18,12 @@ migration:
     - platform: android
       create_revision: f5a8537f90d143abd5bb2f658fa69c388da9677b
       base_revision: f5a8537f90d143abd5bb2f658fa69c388da9677b
+<<<<<<< HEAD
     - platform: web
       create_revision: f5a8537f90d143abd5bb2f658fa69c388da9677b
       base_revision: f5a8537f90d143abd5bb2f658fa69c388da9677b
+=======
+>>>>>>> 1dc84f5168ba971767099bc66674e32a06ececbe
 
   # User provided section
 
